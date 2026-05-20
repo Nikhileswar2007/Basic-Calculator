@@ -16,6 +16,6 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - Tailwind CSS
 - JavaScript 
